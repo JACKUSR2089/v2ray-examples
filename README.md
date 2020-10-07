@@ -5,7 +5,7 @@
 感谢 vTemplate 的作者 KiriKira、雨落无声和 Project V 的所有开发人员。
 
 
-打赏我  https://www.paypal.com/paypalme/uaa2020
+请我喝咖啡  https://www.paypal.com/paypalme/uaa2020
 
 ## 贡献指南
 
