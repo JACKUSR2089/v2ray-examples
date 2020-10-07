@@ -4,6 +4,9 @@
 
 感谢 vTemplate 的作者 KiriKira、雨落无声和 Project V 的所有开发人员。
 
+
+打赏我  https://www.paypal.com/paypalme/uaa2020
+
 ## 贡献指南
 
 欢迎你将自己使用的配置制作模板，提交 PR。
